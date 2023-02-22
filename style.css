@@ -8,6 +8,7 @@ li {
 
 .comment {
   margin-left: 20px;
+  border-color: brown;
 }
 
 .comment > form {
